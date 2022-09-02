@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-All your scripts should be exactly two lines long ($ wc -l file should print 2)
+This repository contains the solution to the 0x00-shell tasks
